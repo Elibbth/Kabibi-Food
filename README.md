@@ -1,6 +1,7 @@
 # Kabibi Food
 
 Reproduction site horeca - Projet commun sur 4 jours 
+https://elibbth.github.io/Kabibi-Food/ (visuel)
 
 # Learning objectives
 - Use SASS + B.E.M. Methodology,
